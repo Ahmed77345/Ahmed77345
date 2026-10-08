@@ -1,16 +1,43 @@
-## Hi there 👋
+# Ahmed Bin Sumait
 
-<!--
-**Ahmed77345/Ahmed77345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer
 
-Here are some ideas to get you started:
+Building modern applications, backend systems, APIs, and intelligent software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Software Developer focused on transforming ideas and real-world requirements into reliable, scalable, and user-centered software.
+
+My work spans across mobile development, backend engineering, database systems, API design, and AI-powered solutions.
+
+---
+
+## Expertise
+
+**Mobile Development**  
+Flutter · Dart · Cross-Platform Applications
+
+**Backend Engineering**  
+C# · .NET · RESTful APIs · Django
+
+**Data & Databases**  
+SQL · Oracle · Firebase · Data Modeling
+
+**Intelligent Systems**  
+AI Integration · LLMs · Intelligent Application Features
+
+**Software Engineering**  
+API Architecture · Authentication · Clean Code · System Integration
+
+---
+
+## Technology
+
+```text
+Flutter       Dart          C# / .NET
+Python        C++           JavaScript
+REST APIs     Django        Entity Framework
+Oracle        SQL           Firebase
+Git           GitHub        VS Code
