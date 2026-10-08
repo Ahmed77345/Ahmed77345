@@ -8,7 +8,7 @@ Building modern applications, backend systems, APIs, and intelligent software so
 
 ## About
 
-Software Developer focused on transforming ideas and real-world requirements into reliable, scalable, and user-centered software.
+Information Technology graduate from Seiyun University, focused on transforming ideas and real-world requirements into reliable, scalable, and user-centered software.
 
 My work spans across mobile development, backend engineering, database systems, API design, and AI-powered solutions.
 
@@ -33,7 +33,7 @@ API Architecture · Authentication · Clean Code · System Integration
 
 ---
 
-## Technology
+## Technical Stack
 
 ```text
 Flutter       Dart          C# / .NET
